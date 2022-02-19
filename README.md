@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @InterplexSoftworks
 - 👀 I’m interested in lua
-- 🌱 I’m currently learning discord.js, lua, python, C#, node
+- 🌱 I’m currently learning discord.js, lua, python, node
 - 💞️ I’m looking to collaborate on #
 - 📫 How to reach me #
 
